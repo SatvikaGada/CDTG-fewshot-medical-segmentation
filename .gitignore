@@ -1,0 +1,25 @@
+# Model weights and archives (too large for GitHub; link them in the README instead)
+*.pt
+*.pth
+*.zip
+
+# Notebook / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Training logs and outputs
+logs/
+runs/
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

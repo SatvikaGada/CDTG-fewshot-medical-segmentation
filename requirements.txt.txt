@@ -1,0 +1,15 @@
+torch
+torchvision
+open-clip-torch==2.20.0
+peft
+loralib
+gdown
+SimpleITK
+pydicom
+tensorboardX
+pandas
+tqdm
+numpy
+Pillow
+matplotlib
+git+https://github.com/openai/CLIP.git
